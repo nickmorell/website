@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Nicholas Morell
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: nicholas@morell.dev
+    phone: (347) 380-5163
+    website: morell.dev #do not add http://
+    linkedin: nicholasmorell
+    github: nickmorell
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,162 +28,138 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
-      - item: Snowboarding
+      - item: Skateboarding
         link:
 
-      - item: Cooking
+      - item: Gaming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced Software professional with over four years of engineering experience. 
+      I specialize in constructing and developing automation frameworks to support companies 
+      and maximize their output and success. Past education and hands-on experience has sharpened my 
+      skills in back end engineering and with utilizing expert analysis to create a more efficient workflow.
+       My quality of work has been recognized not only by the companies I work directly for, but also the 
+       clients I have consulted and completed automation improvements with. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BS in Computer Science
+      university: SUNY New Paltz
+      time: 2011 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Attended in order to acquire my BS in Computer Science. While
+        attending I was able to learn more about the general principals
+        of Comp Sci while also being able to explore alternatives like
+        Web Design, Server Side Programming, and some mobile design and
+        development. I also took the time outside of class to continue
+        educating myself on web programming and learned to enjoy API
+        and API design often playing around with CMS and attempting to create
+        my own from scratch. 
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Back End Developer
+      time: May 2019 - Present
+      company: Wheels Up, New York City
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        I joined Wheels Up in the early stages as a start up being only three years in. 
+        Since I have joined I have changed roles 3 times (so far) coming in as a consultant,
+        being picked up full time for web, mobile, and performance testing, and finally
+        moving over to a Software Engineer / Backend Developer position. In each role I have gained
+        bountiful knowledge and continue to grow and lead.
+          - Developed an internal file management / CMS service. This utilized Spring, Rackspace Cloud Servers, and Kotlin.
+          - Redesigned and reimplemented a social and shared flight experience to bring our platform to a more modern standard.
+          - Implemented complimentary system that allows members to find deals on flights to allow both the customer and the company save money.
+          - Collaborate in a team setting to develop innovative approaches for members to request flights
+          - Design, implement, and test new features as a full software engineer on a daily basis
+          - Dedicate focus to one project as the Backend Developer representative within a group comprised of various other representatives of other disciplines
+    - role: QA Automation Engineer
+      time: Apr 2018 - May 2019
+      company: Wheels Up, New York City
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Bolster the automation framework on all systems by rewriting it through Gauge, a cross-platform automation tool developed by ThoughtWorks
+          - Conduct performance tests utilizing various platforms, such as Blazemeter and Locust
+          - Manage and efficiently accomplish various tasks as a manual Quality Assurance resource by using Kanban boards
+          - Lead classes of Quality Assurance employees to train them in Java and Selenium automation 
+    - role: Software Development Engineer In Test (Consultant)
+      time: Sep 2016 - Apr 2018
+      company: Wheels Up, New York City
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Created a general automation framework to test the member portal of the company.
+          - Implemented the Gauge framework from "ThoughtWorks" to assist in automated testing.
+          - Created basic performance testing suites mainly for stress testing using Locust and Jmeter.
+          - Assisted in creating mock servers in order to test various sections of the application.
+
+    - role: Software Development Engineer In Test 
+      time: Apr 2016 - Apr 2018
+      company: RTTS, New York City
+      details: |
+        While starting out my career, I was thrown into the world
+        of automation testing where I was able to quickly pick up the skills
+        I needed to suceed and to begin working with companies. I assisted the company
+        with our internal project QuerySurge which is used for data testing specifally
+        for data warehouses. I was also sent to multiple clients where I was eventually 
+        brought into one full time.
+          - Consulted with clients to develop a more advanced and effective test automation resource
+          - Expanded the knowledge of team members by facilitating their understanding of Selenium alongside assisting them with Jira and Zephr software
+          - Tested and improved the internal applications that would be sold to customers
+          - Built and automated platforms for Wheels Up’s member portal and internal content management system
+          - Performed automation testing on graphical data for Real Capital Analytics to ensure information was being accurately presented for a specific set of data
+          - Communicated with developers at Real Capital Analytics to facilitate with problem-solving of a variety of issues
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I strive to create easy to use, easy to install applications but tend to 
+      to lean towards API and API design while doing my work.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Cardea
+        link: "https://github.com/nickmorell/cardea"
+        tagline: "An easily extensible node based weather app, currently utilizing weatherbit.io"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Spring
+        level: 80%
+
+      - name: Javascript
+        level: 80%
 
       - name: Angular
-        level: 98%
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
